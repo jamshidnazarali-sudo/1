@@ -1,0 +1,6 @@
+{
+  "name": "TXT QBank System",
+  "description": "A powerful test bank system that parses TXT files, supports multiple correct answers, and features automatic categorization and randomization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
